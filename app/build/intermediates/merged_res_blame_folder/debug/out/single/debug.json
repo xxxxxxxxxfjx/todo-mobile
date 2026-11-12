@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-merged_res-57:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-main-59:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.focus.tomato.app-merged_res-57:/xml_timer_widget_info.xml.flat",
+        "source": "com.focus.tomato.app-main-59:/xml/timer_widget_info.xml"
+    },
+    {
+        "merged": "com.focus.tomato.app-merged_res-57:/drawable_widget_bg.xml.flat",
+        "source": "com.focus.tomato.app-main-59:/drawable/widget_bg.xml"
+    },
+    {
+        "merged": "com.focus.tomato.app-merged_res-57:/drawable_ic_widget_tomato.xml.flat",
+        "source": "com.focus.tomato.app-main-59:/drawable/ic_widget_tomato.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-merged_res-57:\\drawable_ic_stat_tomato.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.focus.tomato.app-main-59:\\drawable\\ic_stat_tomato.xml"
+    },
+    {
+        "merged": "com.focus.tomato.app-merged_res-57:/layout_widget_timer.xml.flat",
+        "source": "com.focus.tomato.app-main-59:/layout/widget_timer.xml"
+    },
+    {
+        "merged": "com.focus.tomato.app-merged_res-57:/drawable_widget_button.xml.flat",
+        "source": "com.focus.tomato.app-main-59:/drawable/widget_button.xml"
+    }
+]

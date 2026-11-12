@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color cream
+color ic_launcher_background
+color ink
+color tomato
+drawable ic_launcher_foreground
+drawable ic_stat_tomato
+drawable ic_widget_tomato
+drawable widget_bg
+drawable widget_button
+id widget_action
+id widget_mode
+id widget_task
+id widget_time
+layout widget_timer
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string widget_description
+style Theme.TomatoFocus
+xml timer_widget_info

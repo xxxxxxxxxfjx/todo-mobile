@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream">#FAF6F0</color>
+    <color name="ic_launcher_background">#FFF3E9</color>
+    <color name="ink">#14161C</color>
+    <color name="tomato">#F0614F</color>
+    <string name="app_name">番茄专注</string>
+    <string name="widget_description">在桌面查看番茄倒计时，一键开始或暂停</string>
+    <style name="Theme.TomatoFocus" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
